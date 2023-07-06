@@ -9,7 +9,6 @@ This project is a comprehensive e-commerce solution that includes a fully functi
 - **CMS Website:** https://storeverse.vercel.app
 - **E-commerce Website:**  https://slicker.vercel.app
 
-
 ## Key Features
 
 1. **CMS**
@@ -35,4 +34,7 @@ This project is a comprehensive e-commerce solution that includes a fully functi
 - **Search and Filtering:** Customers can quickly find desired products using our robust search functionality. The search feature enables users to search by keywords, categories, colors, sizes, or any other relevant attributes. Filtering options further refine search results for a personalized shopping experience.
 - **Shopping Cart and Checkout:** We provide a secure shopping cart system where customers can add products, review their selections, and proceed to the checkout process. Our checkout process ensures a seamless and secure payment experience, allowing customers to complete their orders with ease.
 
-
+## Screenshots
+- **Dashboard and CMS**
+![App Screenshot](storeverse_screenshot.png)
+![App Screenshot](storeverse_screenshot1.png)
