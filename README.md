@@ -39,3 +39,8 @@ This project is a comprehensive e-commerce solution that includes a fully functi
 ![App Screenshot](storeverse_screenshot.png)
 ![App Screenshot](storeverse_screenshot1.png)
 ![App Screenshot](storeverse_screenshot2.png)
+- **Store**
+![App Screenshot](public/store_screenshot1.png)
+![App Screenshot](public/store_screenshot2.png)
+![App Screenshot](public/store_screenshot3.png)
+  
